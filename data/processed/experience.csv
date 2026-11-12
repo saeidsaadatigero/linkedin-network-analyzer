@@ -1,0 +1,21 @@
+profile_id,title,company,start,end,duration_months,is_current,description
+p01,Chief Technology Officer,Nimbus Analytics,2021-06,,65,True,Chief Technology Officer at Nimbus Analytics.
+p01,VP Engineering,Fjord Systems,2015-03,2021-05,74,False,VP Engineering at Fjord Systems.
+p02,Head of AI,Nimbus Analytics,2022-01,,58,True,Head of AI at Nimbus Analytics.
+p02,Senior ML Engineer,BlueRiver Labs,2017-09,2021-12,51,False,Senior ML Engineer at BlueRiver Labs.
+p03,ML Engineer,Nimbus Analytics,2022-08,,51,True,ML Engineer at Nimbus Analytics.
+p03,Data Scientist,Fjord Systems,2019-02,2022-07,41,False,Data Scientist at Fjord Systems.
+p04,NLP Engineer,Nimbus Analytics,2023-03,,44,True,NLP Engineer at Nimbus Analytics.
+p04,Research Engineer,Lumen AI,2020-06,2023-02,32,False,Research Engineer at Lumen AI.
+p05,Data Scientist,Nimbus Analytics,2022-04,,55,True,Data Scientist at Nimbus Analytics.
+p05,Data Analyst,Greenfield Retail,2018-07,2022-03,44,False,Data Analyst at Greenfield Retail.
+p06,Engineering Manager,Nimbus Analytics,2021-09,,62,True,Engineering Manager at Nimbus Analytics.
+p06,Senior Backend Engineer,Fjord Systems,2016-01,2021-08,67,False,Senior Backend Engineer at Fjord Systems.
+p07,Backend Engineer,Nimbus Analytics,2022-11,,48,True,Backend Engineer at Nimbus Analytics.
+p07,Software Engineer,Vistula Soft,2019-09,2022-10,37,False,Software Engineer at Vistula Soft.
+p08,Platform Engineer,Nimbus Analytics,2022-02,,57,True,Platform Engineer at Nimbus Analytics.
+p08,DevOps Engineer,Atlantic Cloud,2018-05,2022-01,44,False,DevOps Engineer at Atlantic Cloud.
+p09,Product Manager,Nimbus Analytics,2021-11,,60,True,Product Manager at Nimbus Analytics.
+p09,Associate Product Manager,Brightpath,2018-03,2021-10,43,False,Associate Product Manager at Brightpath.
+p10,UX Designer,Nimbus Analytics,2023-01,,46,True,UX Designer at Nimbus Analytics.
+p10,UI Designer,Brightpath,2019-06,2022-12,42,False,UI Designer at Brightpath.

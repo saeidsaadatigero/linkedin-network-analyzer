@@ -1,0 +1,1078 @@
+{
+  "profiles": [
+    {
+      "profile_id": "p01",
+      "profile_url": "https://www.linkedin.com/in/example-person-01",
+      "full_name": "Elena Markovic",
+      "headline": "CTO at Nimbus Analytics",
+      "location": "Berlin, Germany",
+      "summary": "Engineering leader focused on scalable platforms and applied AI.",
+      "current_title": "Chief Technology Officer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 139,
+      "num_skills": 6,
+      "interests": "AI Strategy; Engineering Culture; Open Source",
+      "num_activities": 3
+    },
+    {
+      "profile_id": "p02",
+      "profile_url": "https://www.linkedin.com/in/example-person-02",
+      "full_name": "Daniel Reyes",
+      "headline": "Head of AI at Nimbus Analytics",
+      "location": "Madrid, Spain",
+      "summary": "Leads the AI team; NLP and MLOps practitioner.",
+      "current_title": "Head of AI",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 109,
+      "num_skills": 6,
+      "interests": "Language Models; Mentoring; Running",
+      "num_activities": 5
+    },
+    {
+      "profile_id": "p03",
+      "profile_url": "https://www.linkedin.com/in/example-person-03",
+      "full_name": "Sofia Lindqvist",
+      "headline": "ML Engineer | Computer Vision",
+      "location": "Stockholm, Sweden",
+      "summary": "Builds and ships computer vision models to production.",
+      "current_title": "ML Engineer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 92,
+      "num_skills": 6,
+      "interests": "Computer Vision; Photography; Hiking",
+      "num_activities": 4
+    },
+    {
+      "profile_id": "p04",
+      "profile_url": "https://www.linkedin.com/in/example-person-04",
+      "full_name": "Omar Haddad",
+      "headline": "NLP Engineer",
+      "location": "Amsterdam, Netherlands",
+      "summary": "Works on transformers, retrieval and LLM applications.",
+      "current_title": "NLP Engineer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 76,
+      "num_skills": 6,
+      "interests": "LLM Agents; Chess; Podcasts",
+      "num_activities": 4
+    },
+    {
+      "profile_id": "p05",
+      "profile_url": "https://www.linkedin.com/in/example-person-05",
+      "full_name": "Priya Nair",
+      "headline": "Data Scientist | Analytics",
+      "location": "Dublin, Ireland",
+      "summary": "Turns messy business data into models and dashboards.",
+      "current_title": "Data Scientist",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 99,
+      "num_skills": 6,
+      "interests": "Data Storytelling; Cycling; Open Data",
+      "num_activities": 4
+    },
+    {
+      "profile_id": "p06",
+      "profile_url": "https://www.linkedin.com/in/example-person-06",
+      "full_name": "Lukas Weber",
+      "headline": "Engineering Manager, Backend",
+      "location": "Munich, Germany",
+      "summary": "Manages the backend team; Django and PostgreSQL at scale.",
+      "current_title": "Engineering Manager",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 129,
+      "num_skills": 6,
+      "interests": "Distributed Systems; Coaching; Board Games",
+      "num_activities": 5
+    },
+    {
+      "profile_id": "p07",
+      "profile_url": "https://www.linkedin.com/in/example-person-07",
+      "full_name": "Anna Kowalski",
+      "headline": "Backend Engineer",
+      "location": "Warsaw, Poland",
+      "summary": "Builds Django REST services with Redis and Celery.",
+      "current_title": "Backend Engineer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 85,
+      "num_skills": 6,
+      "interests": "API Design; Climbing; Clean Code",
+      "num_activities": 4
+    },
+    {
+      "profile_id": "p08",
+      "profile_url": "https://www.linkedin.com/in/example-person-08",
+      "full_name": "Tomas Silva",
+      "headline": "DevOps / Platform Engineer",
+      "location": "Lisbon, Portugal",
+      "summary": "Runs the platform: Kubernetes, CI/CD and observability.",
+      "current_title": "Platform Engineer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 101,
+      "num_skills": 6,
+      "interests": "Infrastructure as Code; Surfing; Observability",
+      "num_activities": 4
+    },
+    {
+      "profile_id": "p09",
+      "profile_url": "https://www.linkedin.com/in/example-person-09",
+      "full_name": "Mei Tanaka",
+      "headline": "Product Manager",
+      "location": "London, United Kingdom",
+      "summary": "Product manager who connects engineering, AI and design.",
+      "current_title": "Product Manager",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 103,
+      "num_skills": 6,
+      "interests": "Product Strategy; Design Thinking; Travel",
+      "num_activities": 6
+    },
+    {
+      "profile_id": "p10",
+      "profile_url": "https://www.linkedin.com/in/example-person-10",
+      "full_name": "James Oconnor",
+      "headline": "UX Designer",
+      "location": "Dublin, Ireland",
+      "summary": "Designs data-heavy products people actually enjoy using.",
+      "current_title": "UX Designer",
+      "current_company": "Nimbus Analytics",
+      "total_experience_months": 88,
+      "num_skills": 6,
+      "interests": "Typography; Accessibility; Cycling",
+      "num_activities": 3
+    }
+  ],
+  "experience": [
+    {
+      "profile_id": "p01",
+      "title": "Chief Technology Officer",
+      "company": "Nimbus Analytics",
+      "start": "2021-06",
+      "end": "",
+      "duration_months": 65,
+      "is_current": true,
+      "description": "Chief Technology Officer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p01",
+      "title": "VP Engineering",
+      "company": "Fjord Systems",
+      "start": "2015-03",
+      "end": "2021-05",
+      "duration_months": 74,
+      "is_current": false,
+      "description": "VP Engineering at Fjord Systems."
+    },
+    {
+      "profile_id": "p02",
+      "title": "Head of AI",
+      "company": "Nimbus Analytics",
+      "start": "2022-01",
+      "end": "",
+      "duration_months": 58,
+      "is_current": true,
+      "description": "Head of AI at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p02",
+      "title": "Senior ML Engineer",
+      "company": "BlueRiver Labs",
+      "start": "2017-09",
+      "end": "2021-12",
+      "duration_months": 51,
+      "is_current": false,
+      "description": "Senior ML Engineer at BlueRiver Labs."
+    },
+    {
+      "profile_id": "p03",
+      "title": "ML Engineer",
+      "company": "Nimbus Analytics",
+      "start": "2022-08",
+      "end": "",
+      "duration_months": 51,
+      "is_current": true,
+      "description": "ML Engineer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p03",
+      "title": "Data Scientist",
+      "company": "Fjord Systems",
+      "start": "2019-02",
+      "end": "2022-07",
+      "duration_months": 41,
+      "is_current": false,
+      "description": "Data Scientist at Fjord Systems."
+    },
+    {
+      "profile_id": "p04",
+      "title": "NLP Engineer",
+      "company": "Nimbus Analytics",
+      "start": "2023-03",
+      "end": "",
+      "duration_months": 44,
+      "is_current": true,
+      "description": "NLP Engineer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p04",
+      "title": "Research Engineer",
+      "company": "Lumen AI",
+      "start": "2020-06",
+      "end": "2023-02",
+      "duration_months": 32,
+      "is_current": false,
+      "description": "Research Engineer at Lumen AI."
+    },
+    {
+      "profile_id": "p05",
+      "title": "Data Scientist",
+      "company": "Nimbus Analytics",
+      "start": "2022-04",
+      "end": "",
+      "duration_months": 55,
+      "is_current": true,
+      "description": "Data Scientist at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p05",
+      "title": "Data Analyst",
+      "company": "Greenfield Retail",
+      "start": "2018-07",
+      "end": "2022-03",
+      "duration_months": 44,
+      "is_current": false,
+      "description": "Data Analyst at Greenfield Retail."
+    },
+    {
+      "profile_id": "p06",
+      "title": "Engineering Manager",
+      "company": "Nimbus Analytics",
+      "start": "2021-09",
+      "end": "",
+      "duration_months": 62,
+      "is_current": true,
+      "description": "Engineering Manager at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p06",
+      "title": "Senior Backend Engineer",
+      "company": "Fjord Systems",
+      "start": "2016-01",
+      "end": "2021-08",
+      "duration_months": 67,
+      "is_current": false,
+      "description": "Senior Backend Engineer at Fjord Systems."
+    },
+    {
+      "profile_id": "p07",
+      "title": "Backend Engineer",
+      "company": "Nimbus Analytics",
+      "start": "2022-11",
+      "end": "",
+      "duration_months": 48,
+      "is_current": true,
+      "description": "Backend Engineer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p07",
+      "title": "Software Engineer",
+      "company": "Vistula Soft",
+      "start": "2019-09",
+      "end": "2022-10",
+      "duration_months": 37,
+      "is_current": false,
+      "description": "Software Engineer at Vistula Soft."
+    },
+    {
+      "profile_id": "p08",
+      "title": "Platform Engineer",
+      "company": "Nimbus Analytics",
+      "start": "2022-02",
+      "end": "",
+      "duration_months": 57,
+      "is_current": true,
+      "description": "Platform Engineer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p08",
+      "title": "DevOps Engineer",
+      "company": "Atlantic Cloud",
+      "start": "2018-05",
+      "end": "2022-01",
+      "duration_months": 44,
+      "is_current": false,
+      "description": "DevOps Engineer at Atlantic Cloud."
+    },
+    {
+      "profile_id": "p09",
+      "title": "Product Manager",
+      "company": "Nimbus Analytics",
+      "start": "2021-11",
+      "end": "",
+      "duration_months": 60,
+      "is_current": true,
+      "description": "Product Manager at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p09",
+      "title": "Associate Product Manager",
+      "company": "Brightpath",
+      "start": "2018-03",
+      "end": "2021-10",
+      "duration_months": 43,
+      "is_current": false,
+      "description": "Associate Product Manager at Brightpath."
+    },
+    {
+      "profile_id": "p10",
+      "title": "UX Designer",
+      "company": "Nimbus Analytics",
+      "start": "2023-01",
+      "end": "",
+      "duration_months": 46,
+      "is_current": true,
+      "description": "UX Designer at Nimbus Analytics."
+    },
+    {
+      "profile_id": "p10",
+      "title": "UI Designer",
+      "company": "Brightpath",
+      "start": "2019-06",
+      "end": "2022-12",
+      "duration_months": 42,
+      "is_current": false,
+      "description": "UI Designer at Brightpath."
+    }
+  ],
+  "education": [
+    {
+      "profile_id": "p01",
+      "school": "TU Berlin",
+      "degree": "MSc",
+      "field": "Computer Science",
+      "start_year": 2008,
+      "end_year": 2010
+    },
+    {
+      "profile_id": "p02",
+      "school": "UPM Madrid",
+      "degree": "MSc",
+      "field": "Artificial Intelligence",
+      "start_year": 2013,
+      "end_year": 2015
+    },
+    {
+      "profile_id": "p03",
+      "school": "KTH",
+      "degree": "MSc",
+      "field": "Machine Learning",
+      "start_year": 2016,
+      "end_year": 2018
+    },
+    {
+      "profile_id": "p04",
+      "school": "University of Amsterdam",
+      "degree": "MSc",
+      "field": "Artificial Intelligence",
+      "start_year": 2018,
+      "end_year": 2020
+    },
+    {
+      "profile_id": "p05",
+      "school": "Trinity College Dublin",
+      "degree": "BSc",
+      "field": "Statistics",
+      "start_year": 2014,
+      "end_year": 2018
+    },
+    {
+      "profile_id": "p06",
+      "school": "LMU Munich",
+      "degree": "BSc",
+      "field": "Informatics",
+      "start_year": 2011,
+      "end_year": 2015
+    },
+    {
+      "profile_id": "p07",
+      "school": "Warsaw University of Technology",
+      "degree": "BSc",
+      "field": "Computer Science",
+      "start_year": 2015,
+      "end_year": 2019
+    },
+    {
+      "profile_id": "p08",
+      "school": "University of Lisbon",
+      "degree": "BSc",
+      "field": "Computer Engineering",
+      "start_year": 2014,
+      "end_year": 2018
+    },
+    {
+      "profile_id": "p09",
+      "school": "UCL",
+      "degree": "MSc",
+      "field": "Management",
+      "start_year": 2015,
+      "end_year": 2017
+    },
+    {
+      "profile_id": "p10",
+      "school": "NCAD Dublin",
+      "degree": "BA",
+      "field": "Visual Communication",
+      "start_year": 2015,
+      "end_year": 2019
+    }
+  ],
+  "skills": [
+    {
+      "profile_id": "p01",
+      "skill": "cloud strategy"
+    },
+    {
+      "profile_id": "p01",
+      "skill": "engineering leadership"
+    },
+    {
+      "profile_id": "p01",
+      "skill": "hiring"
+    },
+    {
+      "profile_id": "p01",
+      "skill": "machine learning"
+    },
+    {
+      "profile_id": "p01",
+      "skill": "roadmapping"
+    },
+    {
+      "profile_id": "p01",
+      "skill": "system architecture"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "machine learning"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "mlops"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "natural language processing"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "python"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "pytorch"
+    },
+    {
+      "profile_id": "p02",
+      "skill": "team leadership"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "computer vision"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "docker"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "machine learning"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "mlops"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "python"
+    },
+    {
+      "profile_id": "p03",
+      "skill": "pytorch"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "langchain"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "machine learning"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "natural language processing"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "python"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "pytorch"
+    },
+    {
+      "profile_id": "p04",
+      "skill": "transformers"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "data visualization"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "machine learning"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "pandas"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "python"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "sql"
+    },
+    {
+      "profile_id": "p05",
+      "skill": "statistics"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "django"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "docker"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "postgresql"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "rest api"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "system architecture"
+    },
+    {
+      "profile_id": "p06",
+      "skill": "team leadership"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "celery"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "django"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "postgresql"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "python"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "redis"
+    },
+    {
+      "profile_id": "p07",
+      "skill": "rest api"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "ci/cd"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "docker"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "kubernetes"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "linux"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "prometheus"
+    },
+    {
+      "profile_id": "p08",
+      "skill": "terraform"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "agile"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "product management"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "roadmapping"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "sql"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "stakeholder management"
+    },
+    {
+      "profile_id": "p09",
+      "skill": "user research"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "accessibility"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "design systems"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "figma"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "prototyping"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "user research"
+    },
+    {
+      "profile_id": "p10",
+      "skill": "ux design"
+    }
+  ],
+  "activity": [
+    {
+      "profile_id": "p01",
+      "type": "post",
+      "date": "2026-10-02",
+      "text": "Why we invest in a shared ML platform.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p01",
+      "type": "reaction",
+      "date": "2026-10-05",
+      "text": "Liked a post about the Q3 AI roadmap.",
+      "target_profile_id": "p02"
+    },
+    {
+      "profile_id": "p01",
+      "type": "comment",
+      "date": "2026-10-09",
+      "text": "Great product framing, thanks Mei.",
+      "target_profile_id": "p09"
+    },
+    {
+      "profile_id": "p02",
+      "type": "post",
+      "date": "2026-10-04",
+      "text": "Lessons from shipping our first LLM feature.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p02",
+      "type": "comment",
+      "date": "2026-10-06",
+      "text": "Nice results on the embeddings benchmark.",
+      "target_profile_id": "p03"
+    },
+    {
+      "profile_id": "p02",
+      "type": "reaction",
+      "date": "2026-10-07",
+      "text": "Liked a post about retrieval quality.",
+      "target_profile_id": "p04"
+    },
+    {
+      "profile_id": "p02",
+      "type": "comment",
+      "date": "2026-10-11",
+      "text": "Can we add a baseline for this?",
+      "target_profile_id": "p05"
+    },
+    {
+      "profile_id": "p02",
+      "type": "repost",
+      "date": "2026-10-12",
+      "text": "Reposted the ML platform post.",
+      "target_profile_id": "p01"
+    },
+    {
+      "profile_id": "p03",
+      "type": "post",
+      "date": "2026-10-03",
+      "text": "Fine-tuning a vision model on limited data.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p03",
+      "type": "comment",
+      "date": "2026-10-08",
+      "text": "The transformer demo is impressive.",
+      "target_profile_id": "p04"
+    },
+    {
+      "profile_id": "p03",
+      "type": "reaction",
+      "date": "2026-10-09",
+      "text": "Liked the LLM feature post.",
+      "target_profile_id": "p02"
+    },
+    {
+      "profile_id": "p03",
+      "type": "comment",
+      "date": "2026-10-13",
+      "text": "Happy to pair on the GPU deployment.",
+      "target_profile_id": "p08"
+    },
+    {
+      "profile_id": "p04",
+      "type": "post",
+      "date": "2026-10-01",
+      "text": "Building retrieval pipelines that actually work.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p04",
+      "type": "reaction",
+      "date": "2026-10-08",
+      "text": "Liked a post about vision fine-tuning.",
+      "target_profile_id": "p03"
+    },
+    {
+      "profile_id": "p04",
+      "type": "comment",
+      "date": "2026-10-10",
+      "text": "Great chart, very clear.",
+      "target_profile_id": "p05"
+    },
+    {
+      "profile_id": "p04",
+      "type": "reaction",
+      "date": "2026-10-12",
+      "text": "Liked the LLM feature post.",
+      "target_profile_id": "p02"
+    },
+    {
+      "profile_id": "p05",
+      "type": "post",
+      "date": "2026-10-05",
+      "text": "Churn analysis: what the data really says.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p05",
+      "type": "comment",
+      "date": "2026-10-07",
+      "text": "Could we expose this through the API?",
+      "target_profile_id": "p07"
+    },
+    {
+      "profile_id": "p05",
+      "type": "reaction",
+      "date": "2026-10-09",
+      "text": "Liked the LLM feature post.",
+      "target_profile_id": "p02"
+    },
+    {
+      "profile_id": "p05",
+      "type": "comment",
+      "date": "2026-10-14",
+      "text": "Good point about label noise.",
+      "target_profile_id": "p03"
+    },
+    {
+      "profile_id": "p06",
+      "type": "post",
+      "date": "2026-10-02",
+      "text": "How we keep Django queries fast.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p06",
+      "type": "comment",
+      "date": "2026-10-06",
+      "text": "Clean PR, thanks Anna.",
+      "target_profile_id": "p07"
+    },
+    {
+      "profile_id": "p06",
+      "type": "reaction",
+      "date": "2026-10-08",
+      "text": "Liked the Kubernetes rollout post.",
+      "target_profile_id": "p08"
+    },
+    {
+      "profile_id": "p06",
+      "type": "comment",
+      "date": "2026-10-10",
+      "text": "Aligned with the platform plan.",
+      "target_profile_id": "p01"
+    },
+    {
+      "profile_id": "p06",
+      "type": "reaction",
+      "date": "2026-10-13",
+      "text": "Liked the roadmap update.",
+      "target_profile_id": "p09"
+    },
+    {
+      "profile_id": "p07",
+      "type": "post",
+      "date": "2026-10-04",
+      "text": "Celery retries: patterns that saved us.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p07",
+      "type": "reaction",
+      "date": "2026-10-06",
+      "text": "Liked the Django queries post.",
+      "target_profile_id": "p06"
+    },
+    {
+      "profile_id": "p07",
+      "type": "comment",
+      "date": "2026-10-09",
+      "text": "Thanks for the zero-downtime tips.",
+      "target_profile_id": "p08"
+    },
+    {
+      "profile_id": "p07",
+      "type": "comment",
+      "date": "2026-10-12",
+      "text": "Let's connect the model output to the API.",
+      "target_profile_id": "p05"
+    },
+    {
+      "profile_id": "p08",
+      "type": "post",
+      "date": "2026-10-03",
+      "text": "Zero-downtime rollouts on Kubernetes.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p08",
+      "type": "comment",
+      "date": "2026-10-07",
+      "text": "Container sizes look good.",
+      "target_profile_id": "p03"
+    },
+    {
+      "profile_id": "p08",
+      "type": "reaction",
+      "date": "2026-10-08",
+      "text": "Liked the Celery retries post.",
+      "target_profile_id": "p07"
+    },
+    {
+      "profile_id": "p08",
+      "type": "repost",
+      "date": "2026-10-11",
+      "text": "Reposted the Django queries post.",
+      "target_profile_id": "p06"
+    },
+    {
+      "profile_id": "p09",
+      "type": "post",
+      "date": "2026-10-05",
+      "text": "Roadmap update: AI features for Q1.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p09",
+      "type": "comment",
+      "date": "2026-10-07",
+      "text": "Can we scope the NLP work for Q1?",
+      "target_profile_id": "p02"
+    },
+    {
+      "profile_id": "p09",
+      "type": "comment",
+      "date": "2026-10-08",
+      "text": "What is the API impact?",
+      "target_profile_id": "p06"
+    },
+    {
+      "profile_id": "p09",
+      "type": "reaction",
+      "date": "2026-10-10",
+      "text": "Liked the new design system post.",
+      "target_profile_id": "p10"
+    },
+    {
+      "profile_id": "p09",
+      "type": "reaction",
+      "date": "2026-10-11",
+      "text": "Liked the ML platform post.",
+      "target_profile_id": "p01"
+    },
+    {
+      "profile_id": "p09",
+      "type": "comment",
+      "date": "2026-10-13",
+      "text": "Love the churn insight.",
+      "target_profile_id": "p05"
+    },
+    {
+      "profile_id": "p10",
+      "type": "post",
+      "date": "2026-10-06",
+      "text": "Designing dashboards for non-technical users.",
+      "target_profile_id": null
+    },
+    {
+      "profile_id": "p10",
+      "type": "reaction",
+      "date": "2026-10-07",
+      "text": "Liked the roadmap update.",
+      "target_profile_id": "p09"
+    },
+    {
+      "profile_id": "p10",
+      "type": "comment",
+      "date": "2026-10-12",
+      "text": "Can we expose a clean endpoint for this view?",
+      "target_profile_id": "p07"
+    }
+  ],
+  "connections": [
+    {
+      "profile_id": "p01",
+      "target_profile_id": "p09",
+      "relation": "mentor"
+    },
+    {
+      "profile_id": "p02",
+      "target_profile_id": "p01",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p02",
+      "target_profile_id": "p09",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p03",
+      "target_profile_id": "p02",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p03",
+      "target_profile_id": "p02",
+      "relation": "mentor"
+    },
+    {
+      "profile_id": "p03",
+      "target_profile_id": "p04",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p03",
+      "target_profile_id": "p08",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p04",
+      "target_profile_id": "p02",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p04",
+      "target_profile_id": "p05",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p05",
+      "target_profile_id": "p02",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p05",
+      "target_profile_id": "p03",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p05",
+      "target_profile_id": "p07",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p06",
+      "target_profile_id": "p01",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p06",
+      "target_profile_id": "p07",
+      "relation": "mentor"
+    },
+    {
+      "profile_id": "p06",
+      "target_profile_id": "p09",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p07",
+      "target_profile_id": "p06",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p07",
+      "target_profile_id": "p08",
+      "relation": "colleague"
+    },
+    {
+      "profile_id": "p08",
+      "target_profile_id": "p06",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p09",
+      "target_profile_id": "p01",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p09",
+      "target_profile_id": "p10",
+      "relation": "mentor"
+    },
+    {
+      "profile_id": "p10",
+      "target_profile_id": "p09",
+      "relation": "reports_to"
+    },
+    {
+      "profile_id": "p10",
+      "target_profile_id": "p07",
+      "relation": "colleague"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+profile_id,type,date,text,target_profile_id
+p01,post,2026-10-02,Why we invest in a shared ML platform.,
+p01,reaction,2026-10-05,Liked a post about the Q3 AI roadmap.,p02
+p01,comment,2026-10-09,"Great product framing, thanks Mei.",p09
+p02,post,2026-10-04,Lessons from shipping our first LLM feature.,
+p02,comment,2026-10-06,Nice results on the embeddings benchmark.,p03
+p02,reaction,2026-10-07,Liked a post about retrieval quality.,p04
+p02,comment,2026-10-11,Can we add a baseline for this?,p05
+p02,repost,2026-10-12,Reposted the ML platform post.,p01
+p03,post,2026-10-03,Fine-tuning a vision model on limited data.,
+p03,comment,2026-10-08,The transformer demo is impressive.,p04
+p03,reaction,2026-10-09,Liked the LLM feature post.,p02
+p03,comment,2026-10-13,Happy to pair on the GPU deployment.,p08
+p04,post,2026-10-01,Building retrieval pipelines that actually work.,
+p04,reaction,2026-10-08,Liked a post about vision fine-tuning.,p03
+p04,comment,2026-10-10,"Great chart, very clear.",p05
+p04,reaction,2026-10-12,Liked the LLM feature post.,p02
+p05,post,2026-10-05,Churn analysis: what the data really says.,
+p05,comment,2026-10-07,Could we expose this through the API?,p07
+p05,reaction,2026-10-09,Liked the LLM feature post.,p02
+p05,comment,2026-10-14,Good point about label noise.,p03
+p06,post,2026-10-02,How we keep Django queries fast.,
+p06,comment,2026-10-06,"Clean PR, thanks Anna.",p07
+p06,reaction,2026-10-08,Liked the Kubernetes rollout post.,p08
+p06,comment,2026-10-10,Aligned with the platform plan.,p01
+p06,reaction,2026-10-13,Liked the roadmap update.,p09
+p07,post,2026-10-04,Celery retries: patterns that saved us.,
+p07,reaction,2026-10-06,Liked the Django queries post.,p06
+p07,comment,2026-10-09,Thanks for the zero-downtime tips.,p08
+p07,comment,2026-10-12,Let's connect the model output to the API.,p05
+p08,post,2026-10-03,Zero-downtime rollouts on Kubernetes.,
+p08,comment,2026-10-07,Container sizes look good.,p03
+p08,reaction,2026-10-08,Liked the Celery retries post.,p07
+p08,repost,2026-10-11,Reposted the Django queries post.,p06
+p09,post,2026-10-05,Roadmap update: AI features for Q1.,
+p09,comment,2026-10-07,Can we scope the NLP work for Q1?,p02
+p09,comment,2026-10-08,What is the API impact?,p06
+p09,reaction,2026-10-10,Liked the new design system post.,p10
+p09,reaction,2026-10-11,Liked the ML platform post.,p01
+p09,comment,2026-10-13,Love the churn insight.,p05
+p10,post,2026-10-06,Designing dashboards for non-technical users.,
+p10,reaction,2026-10-07,Liked the roadmap update.,p09
+p10,comment,2026-10-12,Can we expose a clean endpoint for this view?,p07

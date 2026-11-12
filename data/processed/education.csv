@@ -1,0 +1,11 @@
+profile_id,school,degree,field,start_year,end_year
+p01,TU Berlin,MSc,Computer Science,2008,2010
+p02,UPM Madrid,MSc,Artificial Intelligence,2013,2015
+p03,KTH,MSc,Machine Learning,2016,2018
+p04,University of Amsterdam,MSc,Artificial Intelligence,2018,2020
+p05,Trinity College Dublin,BSc,Statistics,2014,2018
+p06,LMU Munich,BSc,Informatics,2011,2015
+p07,Warsaw University of Technology,BSc,Computer Science,2015,2019
+p08,University of Lisbon,BSc,Computer Engineering,2014,2018
+p09,UCL,MSc,Management,2015,2017
+p10,NCAD Dublin,BA,Visual Communication,2015,2019

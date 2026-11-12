@@ -1,0 +1,61 @@
+profile_id,skill
+p01,cloud strategy
+p01,engineering leadership
+p01,hiring
+p01,machine learning
+p01,roadmapping
+p01,system architecture
+p02,machine learning
+p02,mlops
+p02,natural language processing
+p02,python
+p02,pytorch
+p02,team leadership
+p03,computer vision
+p03,docker
+p03,machine learning
+p03,mlops
+p03,python
+p03,pytorch
+p04,langchain
+p04,machine learning
+p04,natural language processing
+p04,python
+p04,pytorch
+p04,transformers
+p05,data visualization
+p05,machine learning
+p05,pandas
+p05,python
+p05,sql
+p05,statistics
+p06,django
+p06,docker
+p06,postgresql
+p06,rest api
+p06,system architecture
+p06,team leadership
+p07,celery
+p07,django
+p07,postgresql
+p07,python
+p07,redis
+p07,rest api
+p08,ci/cd
+p08,docker
+p08,kubernetes
+p08,linux
+p08,prometheus
+p08,terraform
+p09,agile
+p09,product management
+p09,roadmapping
+p09,sql
+p09,stakeholder management
+p09,user research
+p10,accessibility
+p10,design systems
+p10,figma
+p10,prototyping
+p10,user research
+p10,ux design

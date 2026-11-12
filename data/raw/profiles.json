@@ -1,0 +1,862 @@
+[
+  {
+    "id": "p01",
+    "profile_url": "https://www.linkedin.com/in/example-person-01",
+    "basic_info": {
+      "full_name": "Elena Markovic",
+      "headline": "CTO at Nimbus Analytics",
+      "location": "Berlin, Germany",
+      "summary": "Engineering leader focused on scalable platforms and applied AI."
+    },
+    "experience": [
+      {
+        "title": "Chief Technology Officer",
+        "company": "Nimbus Analytics",
+        "start": "2021-06",
+        "end": null,
+        "description": "Chief Technology Officer at Nimbus Analytics."
+      },
+      {
+        "title": "VP Engineering",
+        "company": "Fjord Systems",
+        "start": "2015-03",
+        "end": "2021-05",
+        "description": "VP Engineering at Fjord Systems."
+      }
+    ],
+    "education": [
+      {
+        "school": "TU Berlin",
+        "degree": "MSc",
+        "field": "Computer Science",
+        "start_year": 2008,
+        "end_year": 2010
+      }
+    ],
+    "skills": [
+      "Engineering Leadership",
+      "System Architecture",
+      "Cloud Strategy",
+      "ML",
+      "Hiring",
+      "Roadmapping"
+    ],
+    "interests": [
+      "AI Strategy",
+      "Engineering Culture",
+      "Open Source"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-02",
+        "text": "Why we invest in a shared ML platform.",
+        "target_profile_id": null
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-05",
+        "text": "Liked a post about the Q3 AI roadmap.",
+        "target_profile_id": "p02"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-09",
+        "text": "Great product framing, thanks Mei.",
+        "target_profile_id": "p09"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p09",
+        "relation": "mentor"
+      }
+    ]
+  },
+  {
+    "id": "p02",
+    "profile_url": "https://www.linkedin.com/in/example-person-02",
+    "basic_info": {
+      "full_name": "Daniel Reyes",
+      "headline": "Head of AI at Nimbus Analytics",
+      "location": "Madrid, Spain",
+      "summary": "Leads the AI team; NLP and MLOps practitioner."
+    },
+    "experience": [
+      {
+        "title": "Head of AI",
+        "company": "Nimbus Analytics",
+        "start": "2022-01",
+        "end": null,
+        "description": "Head of AI at Nimbus Analytics."
+      },
+      {
+        "title": "Senior ML Engineer",
+        "company": "BlueRiver Labs",
+        "start": "2017-09",
+        "end": "2021-12",
+        "description": "Senior ML Engineer at BlueRiver Labs."
+      }
+    ],
+    "education": [
+      {
+        "school": "UPM Madrid",
+        "degree": "MSc",
+        "field": "Artificial Intelligence",
+        "start_year": 2013,
+        "end_year": 2015
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "NLP",
+      "Team Leadership",
+      "MLOps",
+      "PyTorch"
+    ],
+    "interests": [
+      "Language Models",
+      "Mentoring",
+      "Running"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-04",
+        "text": "Lessons from shipping our first LLM feature.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-06",
+        "text": "Nice results on the embeddings benchmark.",
+        "target_profile_id": "p03"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-07",
+        "text": "Liked a post about retrieval quality.",
+        "target_profile_id": "p04"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-11",
+        "text": "Can we add a baseline for this?",
+        "target_profile_id": "p05"
+      },
+      {
+        "type": "repost",
+        "date": "2026-10-12",
+        "text": "Reposted the ML platform post.",
+        "target_profile_id": "p01"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p01",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p09",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p03",
+    "profile_url": "https://www.linkedin.com/in/example-person-03",
+    "basic_info": {
+      "full_name": "Sofia Lindqvist",
+      "headline": "ML Engineer | Computer Vision",
+      "location": "Stockholm, Sweden",
+      "summary": "Builds and ships computer vision models to production."
+    },
+    "experience": [
+      {
+        "title": "ML Engineer",
+        "company": "Nimbus Analytics",
+        "start": "2022-08",
+        "end": null,
+        "description": "ML Engineer at Nimbus Analytics."
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Fjord Systems",
+        "start": "2019-02",
+        "end": "2022-07",
+        "description": "Data Scientist at Fjord Systems."
+      }
+    ],
+    "education": [
+      {
+        "school": "KTH",
+        "degree": "MSc",
+        "field": "Machine Learning",
+        "start_year": 2016,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "ml",
+      "Computer Vision",
+      "MLOps",
+      "Docker"
+    ],
+    "interests": [
+      "Computer Vision",
+      "Photography",
+      "Hiking"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-03",
+        "text": "Fine-tuning a vision model on limited data.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-08",
+        "text": "The transformer demo is impressive.",
+        "target_profile_id": "p04"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-09",
+        "text": "Liked the LLM feature post.",
+        "target_profile_id": "p02"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-13",
+        "text": "Happy to pair on the GPU deployment.",
+        "target_profile_id": "p08"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p02",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p02",
+        "relation": "mentor"
+      },
+      {
+        "profile_id": "p04",
+        "relation": "colleague"
+      },
+      {
+        "profile_id": "p08",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p04",
+    "profile_url": "https://www.linkedin.com/in/example-person-04",
+    "basic_info": {
+      "full_name": "Omar Haddad",
+      "headline": "NLP Engineer",
+      "location": "Amsterdam, Netherlands",
+      "summary": "Works on transformers, retrieval and LLM applications."
+    },
+    "experience": [
+      {
+        "title": "NLP Engineer",
+        "company": "Nimbus Analytics",
+        "start": "2023-03",
+        "end": null,
+        "description": "NLP Engineer at Nimbus Analytics."
+      },
+      {
+        "title": "Research Engineer",
+        "company": "Lumen AI",
+        "start": "2020-06",
+        "end": "2023-02",
+        "description": "Research Engineer at Lumen AI."
+      }
+    ],
+    "education": [
+      {
+        "school": "University of Amsterdam",
+        "degree": "MSc",
+        "field": "Artificial Intelligence",
+        "start_year": 2018,
+        "end_year": 2020
+      }
+    ],
+    "skills": [
+      " Python ",
+      "NLP",
+      "Transformers",
+      "PyTorch",
+      "Machine Learning",
+      "LangChain"
+    ],
+    "interests": [
+      "LLM Agents",
+      "Chess",
+      "Podcasts"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-01",
+        "text": "Building retrieval pipelines that actually work.",
+        "target_profile_id": null
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-08",
+        "text": "Liked a post about vision fine-tuning.",
+        "target_profile_id": "p03"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-10",
+        "text": "Great chart, very clear.",
+        "target_profile_id": "p05"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-12",
+        "text": "Liked the LLM feature post.",
+        "target_profile_id": "p02"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p02",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p05",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p05",
+    "profile_url": "https://www.linkedin.com/in/example-person-05",
+    "basic_info": {
+      "full_name": "Priya Nair",
+      "headline": "Data Scientist | Analytics",
+      "location": "Dublin, Ireland",
+      "summary": "Turns messy business data into models and dashboards."
+    },
+    "experience": [
+      {
+        "title": "Data Scientist",
+        "company": "Nimbus Analytics",
+        "start": "2022-04",
+        "end": null,
+        "description": "Data Scientist at Nimbus Analytics."
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Greenfield Retail",
+        "start": "2018-07",
+        "end": "2022-03",
+        "description": "Data Analyst at Greenfield Retail."
+      }
+    ],
+    "education": [
+      {
+        "school": "Trinity College Dublin",
+        "degree": "BSc",
+        "field": "Statistics",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Python",
+      "Pandas",
+      "Statistics",
+      "Machine Learning",
+      "SQL",
+      "Data Visualization"
+    ],
+    "interests": [
+      "Data Storytelling",
+      "Cycling",
+      "Open Data"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-05",
+        "text": "Churn analysis: what the data really says.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-07",
+        "text": "Could we expose this through the API?",
+        "target_profile_id": "p07"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-09",
+        "text": "Liked the LLM feature post.",
+        "target_profile_id": "p02"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-14",
+        "text": "Good point about label noise.",
+        "target_profile_id": "p03"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p02",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p03",
+        "relation": "colleague"
+      },
+      {
+        "profile_id": "p07",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p06",
+    "profile_url": "https://www.linkedin.com/in/example-person-06",
+    "basic_info": {
+      "full_name": "Lukas Weber",
+      "headline": "Engineering Manager, Backend",
+      "location": "Munich, Germany",
+      "summary": "Manages the backend team; Django and PostgreSQL at scale."
+    },
+    "experience": [
+      {
+        "title": "Engineering Manager",
+        "company": "Nimbus Analytics",
+        "start": "2021-09",
+        "end": null,
+        "description": "Engineering Manager at Nimbus Analytics."
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "company": "Fjord Systems",
+        "start": "2016-01",
+        "end": "2021-08",
+        "description": "Senior Backend Engineer at Fjord Systems."
+      }
+    ],
+    "education": [
+      {
+        "school": "LMU Munich",
+        "degree": "BSc",
+        "field": "Informatics",
+        "start_year": 2011,
+        "end_year": 2015
+      }
+    ],
+    "skills": [
+      "Django",
+      "PostgreSQL",
+      "System Architecture",
+      "Team Leadership",
+      "Docker",
+      "REST API"
+    ],
+    "interests": [
+      "Distributed Systems",
+      "Coaching",
+      "Board Games"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-02",
+        "text": "How we keep Django queries fast.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-06",
+        "text": "Clean PR, thanks Anna.",
+        "target_profile_id": "p07"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-08",
+        "text": "Liked the Kubernetes rollout post.",
+        "target_profile_id": "p08"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-10",
+        "text": "Aligned with the platform plan.",
+        "target_profile_id": "p01"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-13",
+        "text": "Liked the roadmap update.",
+        "target_profile_id": "p09"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p01",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p07",
+        "relation": "mentor"
+      },
+      {
+        "profile_id": "p09",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p07",
+    "profile_url": "https://www.linkedin.com/in/example-person-07",
+    "basic_info": {
+      "full_name": "Anna Kowalski",
+      "headline": "Backend Engineer",
+      "location": "Warsaw, Poland",
+      "summary": "Builds Django REST services with Redis and Celery."
+    },
+    "experience": [
+      {
+        "title": "Backend Engineer",
+        "company": "Nimbus Analytics",
+        "start": "2022-11",
+        "end": null,
+        "description": "Backend Engineer at Nimbus Analytics."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Vistula Soft",
+        "start": "2019-09",
+        "end": "2022-10",
+        "description": "Software Engineer at Vistula Soft."
+      }
+    ],
+    "education": [
+      {
+        "school": "Warsaw University of Technology",
+        "degree": "BSc",
+        "field": "Computer Science",
+        "start_year": 2015,
+        "end_year": 2019
+      }
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "Postgres",
+      "REST API",
+      "Redis",
+      "Celery"
+    ],
+    "interests": [
+      "API Design",
+      "Climbing",
+      "Clean Code"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-04",
+        "text": "Celery retries: patterns that saved us.",
+        "target_profile_id": null
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-06",
+        "text": "Liked the Django queries post.",
+        "target_profile_id": "p06"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-09",
+        "text": "Thanks for the zero-downtime tips.",
+        "target_profile_id": "p08"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-12",
+        "text": "Let's connect the model output to the API.",
+        "target_profile_id": "p05"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p06",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p08",
+        "relation": "colleague"
+      }
+    ]
+  },
+  {
+    "id": "p08",
+    "profile_url": "https://www.linkedin.com/in/example-person-08",
+    "basic_info": {
+      "full_name": "Tomas Silva",
+      "headline": "DevOps / Platform Engineer",
+      "location": "Lisbon, Portugal",
+      "summary": "Runs the platform: Kubernetes, CI/CD and observability."
+    },
+    "experience": [
+      {
+        "title": "Platform Engineer",
+        "company": "Nimbus Analytics",
+        "start": "2022-02",
+        "end": null,
+        "description": "Platform Engineer at Nimbus Analytics."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Atlantic Cloud",
+        "start": "2018-05",
+        "end": "2022-01",
+        "description": "DevOps Engineer at Atlantic Cloud."
+      }
+    ],
+    "education": [
+      {
+        "school": "University of Lisbon",
+        "degree": "BSc",
+        "field": "Computer Engineering",
+        "start_year": 2014,
+        "end_year": 2018
+      }
+    ],
+    "skills": [
+      "Docker",
+      "K8s",
+      "CI CD",
+      "Linux",
+      "Terraform",
+      "Prometheus"
+    ],
+    "interests": [
+      "Infrastructure as Code",
+      "Surfing",
+      "Observability"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-03",
+        "text": "Zero-downtime rollouts on Kubernetes.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-07",
+        "text": "Container sizes look good.",
+        "target_profile_id": "p03"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-08",
+        "text": "Liked the Celery retries post.",
+        "target_profile_id": "p07"
+      },
+      {
+        "type": "repost",
+        "date": "2026-10-11",
+        "text": "Reposted the Django queries post.",
+        "target_profile_id": "p06"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p06",
+        "relation": "reports_to"
+      }
+    ]
+  },
+  {
+    "id": "p09",
+    "profile_url": "https://www.linkedin.com/in/example-person-09",
+    "basic_info": {
+      "full_name": "Mei Tanaka",
+      "headline": "Product Manager",
+      "location": "London, United Kingdom",
+      "summary": "Product manager who connects engineering, AI and design."
+    },
+    "experience": [
+      {
+        "title": "Product Manager",
+        "company": "Nimbus Analytics",
+        "start": "2021-11",
+        "end": null,
+        "description": "Product Manager at Nimbus Analytics."
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "Brightpath",
+        "start": "2018-03",
+        "end": "2021-10",
+        "description": "Associate Product Manager at Brightpath."
+      }
+    ],
+    "education": [
+      {
+        "school": "UCL",
+        "degree": "MSc",
+        "field": "Management",
+        "start_year": 2015,
+        "end_year": 2017
+      }
+    ],
+    "skills": [
+      "Product Management",
+      "Roadmapping",
+      "User Research",
+      "Agile",
+      "Stakeholder Management",
+      "SQL"
+    ],
+    "interests": [
+      "Product Strategy",
+      "Design Thinking",
+      "Travel"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-05",
+        "text": "Roadmap update: AI features for Q1.",
+        "target_profile_id": null
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-07",
+        "text": "Can we scope the NLP work for Q1?",
+        "target_profile_id": "p02"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-08",
+        "text": "What is the API impact?",
+        "target_profile_id": "p06"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-10",
+        "text": "Liked the new design system post.",
+        "target_profile_id": "p10"
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-11",
+        "text": "Liked the ML platform post.",
+        "target_profile_id": "p01"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-13",
+        "text": "Love the churn insight.",
+        "target_profile_id": "p05"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p01",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p10",
+        "relation": "mentor"
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "profile_url": "https://www.linkedin.com/in/example-person-10",
+    "basic_info": {
+      "full_name": "James Oconnor",
+      "headline": "UX Designer",
+      "location": "Dublin, Ireland",
+      "summary": "Designs data-heavy products people actually enjoy using."
+    },
+    "experience": [
+      {
+        "title": "UX Designer",
+        "company": "Nimbus Analytics",
+        "start": "2023-01",
+        "end": null,
+        "description": "UX Designer at Nimbus Analytics."
+      },
+      {
+        "title": "UI Designer",
+        "company": "Brightpath",
+        "start": "2019-06",
+        "end": "2022-12",
+        "description": "UI Designer at Brightpath."
+      }
+    ],
+    "education": [
+      {
+        "school": "NCAD Dublin",
+        "degree": "BA",
+        "field": "Visual Communication",
+        "start_year": 2015,
+        "end_year": 2019
+      }
+    ],
+    "skills": [
+      "UX",
+      "Figma",
+      "User Research",
+      "Prototyping",
+      "Design Systems",
+      "Accessibility"
+    ],
+    "interests": [
+      "Typography",
+      "Accessibility",
+      "Cycling"
+    ],
+    "activity": [
+      {
+        "type": "post",
+        "date": "2026-10-06",
+        "text": "Designing dashboards for non-technical users.",
+        "target_profile_id": null
+      },
+      {
+        "type": "reaction",
+        "date": "2026-10-07",
+        "text": "Liked the roadmap update.",
+        "target_profile_id": "p09"
+      },
+      {
+        "type": "comment",
+        "date": "2026-10-12",
+        "text": "Can we expose a clean endpoint for this view?",
+        "target_profile_id": "p07"
+      }
+    ],
+    "connections": [
+      {
+        "profile_id": "p09",
+        "relation": "reports_to"
+      },
+      {
+        "profile_id": "p07",
+        "relation": "colleague"
+      }
+    ]
+  }
+]

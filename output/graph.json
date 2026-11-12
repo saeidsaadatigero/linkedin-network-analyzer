@@ -1,0 +1,328 @@
+{
+  "nodes": [
+    {
+      "id": "p01",
+      "name": "Elena Markovic",
+      "title": "Chief Technology Officer",
+      "company": "Nimbus Analytics",
+      "location": "Berlin, Germany",
+      "influence_score": 0.611111111111111,
+      "betweenness": 0.19444444444444442,
+      "degree_centrality": 0.3333333333333333,
+      "community": 1,
+      "skill_cluster": 2
+    },
+    {
+      "id": "p02",
+      "name": "Daniel Reyes",
+      "title": "Head of AI",
+      "company": "Nimbus Analytics",
+      "location": "Madrid, Spain",
+      "influence_score": 1.0,
+      "betweenness": 0.19444444444444442,
+      "degree_centrality": 0.5555555555555556,
+      "community": 0,
+      "skill_cluster": 1
+    },
+    {
+      "id": "p03",
+      "name": "Sofia Lindqvist",
+      "title": "ML Engineer",
+      "company": "Nimbus Analytics",
+      "location": "Stockholm, Sweden",
+      "influence_score": 0.5734126984126984,
+      "betweenness": 0.08333333333333333,
+      "degree_centrality": 0.4444444444444444,
+      "community": 0,
+      "skill_cluster": 1
+    },
+    {
+      "id": "p04",
+      "name": "Omar Haddad",
+      "title": "NLP Engineer",
+      "company": "Nimbus Analytics",
+      "location": "Amsterdam, Netherlands",
+      "influence_score": 0.15277777777777776,
+      "betweenness": 0.0,
+      "degree_centrality": 0.3333333333333333,
+      "community": 0,
+      "skill_cluster": 1
+    },
+    {
+      "id": "p05",
+      "name": "Priya Nair",
+      "title": "Data Scientist",
+      "company": "Nimbus Analytics",
+      "location": "Dublin, Ireland",
+      "influence_score": 0.6160714285714286,
+      "betweenness": 0.05555555555555555,
+      "degree_centrality": 0.5555555555555556,
+      "community": 0,
+      "skill_cluster": 1
+    },
+    {
+      "id": "p06",
+      "name": "Lukas Weber",
+      "title": "Engineering Manager",
+      "company": "Nimbus Analytics",
+      "location": "Munich, Germany",
+      "influence_score": 0.6865079365079364,
+      "betweenness": 0.125,
+      "degree_centrality": 0.4444444444444444,
+      "community": 2,
+      "skill_cluster": 0
+    },
+    {
+      "id": "p07",
+      "name": "Anna Kowalski",
+      "title": "Backend Engineer",
+      "company": "Nimbus Analytics",
+      "location": "Warsaw, Poland",
+      "influence_score": 0.5972222222222222,
+      "betweenness": 0.09722222222222221,
+      "degree_centrality": 0.4444444444444444,
+      "community": 2,
+      "skill_cluster": 0
+    },
+    {
+      "id": "p08",
+      "name": "Tomas Silva",
+      "title": "Platform Engineer",
+      "company": "Nimbus Analytics",
+      "location": "Lisbon, Portugal",
+      "influence_score": 0.37896825396825395,
+      "betweenness": 0.08333333333333333,
+      "degree_centrality": 0.3333333333333333,
+      "community": 2,
+      "skill_cluster": 3
+    },
+    {
+      "id": "p09",
+      "name": "Mei Tanaka",
+      "title": "Product Manager",
+      "company": "Nimbus Analytics",
+      "location": "London, United Kingdom",
+      "influence_score": 0.8660714285714285,
+      "betweenness": 0.15277777777777776,
+      "degree_centrality": 0.5555555555555556,
+      "community": 1,
+      "skill_cluster": 2
+    },
+    {
+      "id": "p10",
+      "name": "James Oconnor",
+      "title": "UX Designer",
+      "company": "Nimbus Analytics",
+      "location": "Dublin, Ireland",
+      "influence_score": 0.0,
+      "betweenness": 0.0,
+      "degree_centrality": 0.2222222222222222,
+      "community": 1,
+      "skill_cluster": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": "p01",
+      "target": "p09",
+      "weight": 7.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "mentor",
+        "reports_to"
+      ],
+      "distance": 0.14285714285714285
+    },
+    {
+      "source": "p01",
+      "target": "p02",
+      "weight": 6.0,
+      "relations": [
+        "activity:reaction",
+        "activity:repost",
+        "reports_to"
+      ],
+      "distance": 0.16666666666666666
+    },
+    {
+      "source": "p01",
+      "target": "p06",
+      "weight": 4.0,
+      "relations": [
+        "activity:comment",
+        "reports_to"
+      ],
+      "distance": 0.25
+    },
+    {
+      "source": "p02",
+      "target": "p09",
+      "weight": 3.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.3333333333333333
+    },
+    {
+      "source": "p02",
+      "target": "p03",
+      "weight": 7.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "mentor",
+        "reports_to"
+      ],
+      "distance": 0.14285714285714285
+    },
+    {
+      "source": "p02",
+      "target": "p04",
+      "weight": 4.0,
+      "relations": [
+        "activity:reaction",
+        "reports_to"
+      ],
+      "distance": 0.25
+    },
+    {
+      "source": "p02",
+      "target": "p05",
+      "weight": 5.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "reports_to"
+      ],
+      "distance": 0.2
+    },
+    {
+      "source": "p03",
+      "target": "p04",
+      "weight": 4.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "colleague"
+      ],
+      "distance": 0.25
+    },
+    {
+      "source": "p03",
+      "target": "p08",
+      "weight": 5.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.2
+    },
+    {
+      "source": "p03",
+      "target": "p05",
+      "weight": 3.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.3333333333333333
+    },
+    {
+      "source": "p04",
+      "target": "p05",
+      "weight": 3.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.3333333333333333
+    },
+    {
+      "source": "p05",
+      "target": "p07",
+      "weight": 5.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.2
+    },
+    {
+      "source": "p05",
+      "target": "p09",
+      "weight": 2.0,
+      "relations": [
+        "activity:comment"
+      ],
+      "distance": 0.5
+    },
+    {
+      "source": "p06",
+      "target": "p07",
+      "weight": 7.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "mentor",
+        "reports_to"
+      ],
+      "distance": 0.14285714285714285
+    },
+    {
+      "source": "p06",
+      "target": "p09",
+      "weight": 4.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "colleague"
+      ],
+      "distance": 0.25
+    },
+    {
+      "source": "p06",
+      "target": "p08",
+      "weight": 6.0,
+      "relations": [
+        "activity:reaction",
+        "activity:repost",
+        "reports_to"
+      ],
+      "distance": 0.16666666666666666
+    },
+    {
+      "source": "p07",
+      "target": "p08",
+      "weight": 4.0,
+      "relations": [
+        "activity:comment",
+        "activity:reaction",
+        "colleague"
+      ],
+      "distance": 0.25
+    },
+    {
+      "source": "p07",
+      "target": "p10",
+      "weight": 3.0,
+      "relations": [
+        "activity:comment",
+        "colleague"
+      ],
+      "distance": 0.3333333333333333
+    },
+    {
+      "source": "p09",
+      "target": "p10",
+      "weight": 6.0,
+      "relations": [
+        "activity:reaction",
+        "mentor",
+        "reports_to"
+      ],
+      "distance": 0.16666666666666666
+    }
+  ]
+}
