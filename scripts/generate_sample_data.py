@@ -12,6 +12,12 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import sys
+
+# Allow running as: python scripts/generate_sample_data.py
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.config import RAW_DATA_PATH
 
